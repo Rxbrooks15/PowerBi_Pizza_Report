@@ -1,7 +1,8 @@
 # PowerBi_Pizza_Report
 Utilizing KPI's and DAX functions to create a holistic dashboard on pizza sales.
 Checkoout PIZZA SALES QUERIES TO VIEW FUNCTIONS THAT WERE USED IN SQL
-
+Slicer used
+Bar charts, line graphs and donut charts used.
 Finished dashboard is [PIZZA_SALES_REPORT_FINAL.pdf](https://github.com/Rxbrooks15/PowerBi_Pizza_Report/files/14330395/PIZZA_SALES_REPORT_FINAL.pdf)
 
 
